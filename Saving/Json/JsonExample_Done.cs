@@ -5,7 +5,7 @@ using System.IO;
 
 public class JsonExample_Done : MonoBehaviour
 {
-    // => Is shorthand for creating a "write only" variable
+    // => Is shorthand for creating a "read only" variable
     // This will be the path to our savefile
     string path => Application.dataPath + "/Økt 10/savefile.json";
     
